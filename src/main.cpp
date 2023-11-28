@@ -11,7 +11,7 @@
 #define S_2 63
 
 //LED
-#define LED_PWM 13
+#define LED_PWM 12
 
 uint32_t tempo=0;
 float adc_conv=VCC/1023;
